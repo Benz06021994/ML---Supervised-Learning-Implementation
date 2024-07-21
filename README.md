@@ -71,6 +71,19 @@ F1-Score: The weighted average of Precision and Recall.
 While all models performed excellently, Logistic Regression along with Decision Tree, Random Forest and SVM stands out as the best due to its perfect scores across all metrics.
 
 On the other hand, k-NN, despite being the worst, still shows strong performance with a high F1-score, indicating that it is also a viable option but slightly less optimal compared to the others.
+
+## Overview
+
+Loading and Preprocessing:
+
+Loading the dataset, preprocessing it and confirming there are no missing values and performing feature scaling to standardize the data.
+
+Classification Algorithm Implementation:
+
+Implement five different classification algorithms, 
+providing a brief description of each and explaining why it might be suitable for the breast cancer dataset.
+
+This assessment will demonstrate your ability to handle data preprocessing and apply various supervised learning algorithms to a real-world dataset, evaluating their effectiveness based on performance metrics.
  
  
  
